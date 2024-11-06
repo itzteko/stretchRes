@@ -1,0 +1,14 @@
+C:\Users\android\source\repos\StrechRes\StrechRes\obj\Debug\net8.0\StrechRes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\source\repos\StrechRes\StrechRes\obj\Debug\net8.0\StrechRes.AssemblyInfoInputs.cache
+C:\Users\android\source\repos\StrechRes\StrechRes\obj\Debug\net8.0\StrechRes.AssemblyInfo.cs
+C:\Users\android\source\repos\StrechRes\StrechRes\obj\Debug\net8.0\StrechRes.csproj.CoreCompileInputs.cache
+C:\Users\android\source\repos\StrechRes\StrechRes\bin\Debug\net8.0\StrechRes.exe
+C:\Users\android\source\repos\StrechRes\StrechRes\bin\Debug\net8.0\StrechRes.deps.json
+C:\Users\android\source\repos\StrechRes\StrechRes\bin\Debug\net8.0\StrechRes.runtimeconfig.json
+C:\Users\android\source\repos\StrechRes\StrechRes\bin\Debug\net8.0\StrechRes.dll
+C:\Users\android\source\repos\StrechRes\StrechRes\bin\Debug\net8.0\StrechRes.pdb
+C:\Users\android\source\repos\StrechRes\StrechRes\obj\Debug\net8.0\StrechRes.dll
+C:\Users\android\source\repos\StrechRes\StrechRes\obj\Debug\net8.0\refint\StrechRes.dll
+C:\Users\android\source\repos\StrechRes\StrechRes\obj\Debug\net8.0\StrechRes.pdb
+C:\Users\android\source\repos\StrechRes\StrechRes\obj\Debug\net8.0\StrechRes.genruntimeconfig.cache
+C:\Users\android\source\repos\StrechRes\StrechRes\obj\Debug\net8.0\ref\StrechRes.dll
