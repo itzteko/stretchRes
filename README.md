@@ -2,7 +2,7 @@
 
 Simple Tool to set your strech res via command prompt! It's oddly easy to make, so I thought I would open source it.
 
-NOTE: This only works off of current resoultions you have, e.g if you have 1440 x 1080 it will work, but if you do not have it as a custom resoulution/resolution, it will just leave your monitor blank (the program will reset it).
+NOTE: This only works off of current resoultions you have, e.g if you have 1440 x 1080 it will work, but if you do not have it as a custom resolution/resolution, it will just leave your monitor blank (the program will reset it).
 
 Setup & Usage
 
